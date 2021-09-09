@@ -18,7 +18,7 @@ Scoring results: (0.77990 3.5k~ / 50k)
 Gradient Boosting Trees ended up overfitting, was not the correct result after running the Kaggle data.
 
 Some interesting finds: 
- [!alt text](https://github.com/Kim-matthew-0422/datascience-proj-survivor-prediction/blob/main/Factirs.png)
+ ![alt text](https://github.com/Kim-matthew-0422/datascience-proj-survivor-prediction/blob/main/Factirs.png)
  
  Had initially thought gender would be the biggest factor, but it turns out age and fare had bigger impact.
  
